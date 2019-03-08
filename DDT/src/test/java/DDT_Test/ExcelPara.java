@@ -81,7 +81,7 @@ public class ExcelPara {
 	}
 
 	
-	@Test
+	@Test 
 	public void login() throws IOException {
 		
 		driver.get(Constant.NEWUSER);
